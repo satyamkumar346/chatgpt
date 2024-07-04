@@ -1,7 +1,7 @@
 import openai
 import time
 
-openai.api_key = "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"
+openai.api_key = "my api key"
 
 try:
     completion = openai.ChatCompletion.create(
